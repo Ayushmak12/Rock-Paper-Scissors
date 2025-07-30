@@ -128,7 +128,7 @@ const score =JSON.parse(localStorage.getItem
      compMove = 'paper';
   }
   else {
-     compMove = 'Scissors';
+     compMove = 'scissors';
   }
   return compMove;
   }
